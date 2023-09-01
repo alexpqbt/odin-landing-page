@@ -1,3 +1,10 @@
+:root {
+    --dark-blue: #1F2937;
+    --blue: #3882F6;
+    --white-1: #F9FAF8;
+    --white-2: #E5E7EB;    
+}
+
 *,
 *::before,
 *::after {
