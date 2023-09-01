@@ -75,3 +75,14 @@ main {
 .hero-image {
     width: 420px;
 }
+
+.hero-btn {
+    border: none;
+    border-radius: 8px;
+
+    margin-top: 12px;
+    padding: 4px 12px;
+    
+    background-color: var(--blue);
+    color: var(--white-1);
+}
