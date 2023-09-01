@@ -45,7 +45,7 @@ nav {
 }
 
 nav > a {
-    color: #f9faf8a8;
+    color: var(--white-2);
 }
 
 /* HERO */
