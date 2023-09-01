@@ -47,3 +47,31 @@ nav {
 nav > a {
     color: #f9faf8a8;
 }
+
+/* HERO */
+
+main {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    align-items: center;
+
+    padding: 5rem 1rem;
+
+    background-color: var(--dark-blue);
+}
+
+.hero-text > h1 {
+    color: var(--white-1);
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero-text > p {
+    color: var(--white-2);
+    font-size: 18px;
+}
+
+.hero-image {
+    width: 420px;
+}
