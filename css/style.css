@@ -81,8 +81,10 @@ main {
     border-radius: 8px;
 
     margin-top: 12px;
-    padding: 4px 12px;
+    padding: 0.6em 2em;
     
+    font-weight: bolder;
+
     background-color: var(--blue);
     color: var(--white-1);
 }
