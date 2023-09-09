@@ -67,6 +67,10 @@ main {
     background-color: var(--dark-blue);
 }
 
+.hero-text {
+    flex-basis: 40%;
+}
+
 .hero-text > h1 {
     color: var(--white-1);
     font-size: 48px;
