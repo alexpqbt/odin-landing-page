@@ -135,5 +135,6 @@ main {
 }
 
 .info-figures figcaption {
+    margin-top: 12px;
     color: var(--dark-blue);
 }
