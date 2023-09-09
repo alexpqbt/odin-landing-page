@@ -95,6 +95,8 @@ main {
     
     font-weight: bolder;
 
+    cursor: pointer;
+
     background-color: var(--blue);
     color: var(--white-1);
 }
