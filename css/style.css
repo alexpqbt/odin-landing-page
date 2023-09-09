@@ -203,3 +203,12 @@ main {
     padding: 0.6em 2em;
     font-weight: bold;
 }
+
+/* FOOTER */
+
+footer {
+    background-color: var(--dark-blue);
+    color: var(--white-1);
+    text-align: center;
+    padding: 2em 0;
+}
