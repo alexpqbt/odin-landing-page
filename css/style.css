@@ -137,6 +137,7 @@ main {
 }
 
 .info-figures figcaption {
+    font-size: 18px;
     margin-top: 12px;
     color: var(--dark-blue);
 }
