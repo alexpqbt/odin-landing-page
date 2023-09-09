@@ -140,3 +140,35 @@ main {
     margin-top: 12px;
     color: var(--dark-blue);
 }
+
+/* QUOTE */
+
+.quote {
+    padding: 3em 6em;
+    background-color: var(--white-2);
+}
+
+.quote .container {
+    width: 800px;
+
+    margin: 0 auto;
+}
+
+.quote .text {
+    font-size: 32px;
+    font-weight: 300;
+    font-style: italic;
+    color: var(--dark-blue);
+    margin-bottom: 12px;
+}
+
+.quote .author {
+    font-size: 22px;
+    font-weight: 700;
+    color: var(--dark-blue);
+    text-align: right;
+}
+
+.quote .author::before {
+    content: "-";
+}
